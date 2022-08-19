@@ -1,0 +1,33 @@
+body{
+    background:lightcyan;
+}
+h1{
+    font-family: 'Times New Roman', Times, serif;
+    font-style: oblique;
+    font-weight:bold;
+}
+
+h4{
+    font-family: 'Times New Roman', Times, serif;
+    font-style: normal;
+    font-weight:lighter;
+}
+
+h5{
+    font-family: 'Times New Roman', Times, serif;
+    font-style: normal;
+    font-weight:lighter;
+}
+
+h6{
+    font-family: 'Times New Roman', Times, serif;
+    font-style: normal;
+    font-weight:lighter;
+}
+
+img{
+    width:40%;
+    border-radius:2px;
+    padding:3px;
+}
+
